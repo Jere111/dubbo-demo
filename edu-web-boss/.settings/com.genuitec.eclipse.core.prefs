@@ -1,0 +1,4 @@
+#Tue Apr 18 15:37:40 CST 2017
+eclipse.preferences.version=1
+validator.Checked=src/main/webapp/page/pms/PmsUserChangeOwnPwd.jsp,src/main/webapp/page/pms/PmsUserList.jsp,src/main/webapp/js/commonDate.js,src/main/webapp/page/pms/PmsUserEdit.jsp,src/main/webapp/statics/dwz/js,src/main/webapp/page/pms/PmsUserResetPwd.jsp,src/main/webapp/js/provincesCity.js,src/main/webapp/statics/dwz/xheditor,src/main/webapp/statics/dwz/chart,src/main/webapp/js/provinceCity.js,src/main/webapp/page/pms/PmsUserAdd.jsp
+validator.Unchecked=
