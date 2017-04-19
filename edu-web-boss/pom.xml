@@ -306,7 +306,24 @@
 			<artifactId>zkclient</artifactId>
 		</dependency>
 		<!-- dubbo 需要的jar end -->
+		
+		<dependency>
+			<groupId>wusc.edu.common</groupId>
+			<artifactId>edu-common</artifactId>
+			<version>${edu-common.version}</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>wusc.edu.common</groupId>
+			<artifactId>edu-common-web</artifactId>
+			<version>${edu-common-web.version}</version>
+		</dependency>
 
+		<dependency>
+			<groupId>wusc.edu.common</groupId>
+			<artifactId>edu-common-config</artifactId>
+			<version>${edu-common-config.version}</version>
+		</dependency>
 
 	</dependencies>
 </project>

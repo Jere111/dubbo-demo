@@ -18,7 +18,11 @@
 	</properties>
 
 	<dependencies>
-
+		<dependency>
+			<groupId>wusc.edu.common</groupId>
+			<artifactId>edu-common</artifactId>
+			<version>${edu-common.version}</version>
+		</dependency>
 
 	</dependencies>
 </project>

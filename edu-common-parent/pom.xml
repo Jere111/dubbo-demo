@@ -25,6 +25,12 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		
+		<!-- common projects -->
+		<edu-common.version>1.0-SNAPSHOT</edu-common.version>
+		<edu-common-config.version>1.0-SNAPSHOT</edu-common-config.version>
+		<edu-common-core.version>1.0-SNAPSHOT</edu-common-core.version>
+		<edu-common-web.version>1.0-SNAPSHOT</edu-common-web.version>
 
 		<edu-demo.version>1.0-SNAPSHOT</edu-demo.version>
 		<edu-facade-user.version>1.0-SNAPSHOT</edu-facade-user.version>

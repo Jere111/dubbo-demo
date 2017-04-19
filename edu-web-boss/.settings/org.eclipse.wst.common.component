@@ -7,6 +7,15 @@
         <dependent-module archiveName="edu-facade-user-1.0-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/edu-facade-user/edu-facade-user">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="edu-common-1.0-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/edu-common/edu-common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="edu-common-web-1.0-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/edu-common-web/edu-common-web">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="edu-common-config-1.0-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/edu-common-config/edu-common-config">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="/edu-web-boss"/>
         <property name="java-output-path" value="/edu-web-boss/src/main/webapp/WEB-INF/classes"/>
     </wb-module>
