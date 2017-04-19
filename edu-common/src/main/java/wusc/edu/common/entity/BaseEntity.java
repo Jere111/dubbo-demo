@@ -3,7 +3,7 @@ package wusc.edu.common.entity;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
+/**  
  *    
  * @描述: 基础实体类，包含各实体公用属性 .
  * @作者: WuShuicheng .
